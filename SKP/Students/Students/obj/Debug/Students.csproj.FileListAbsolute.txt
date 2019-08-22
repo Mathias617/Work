@@ -1,7 +1,0 @@
-c:\users\masa\source\repos\Students\Students\bin\Debug\Students.exe.config
-c:\users\masa\source\repos\Students\Students\bin\Debug\Students.exe
-c:\users\masa\source\repos\Students\Students\bin\Debug\Students.pdb
-c:\users\masa\source\repos\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
-c:\users\masa\source\repos\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
-c:\users\masa\source\repos\Students\Students\obj\Debug\Students.exe
-c:\users\masa\source\repos\Students\Students\obj\Debug\Students.pdb

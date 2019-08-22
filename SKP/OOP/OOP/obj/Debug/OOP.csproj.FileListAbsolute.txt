@@ -1,7 +1,0 @@
-c:\users\masa\source\repos\OOP\OOP\bin\Debug\OOP.exe.config
-c:\users\masa\source\repos\OOP\OOP\bin\Debug\OOP.exe
-c:\users\masa\source\repos\OOP\OOP\bin\Debug\OOP.pdb
-c:\users\masa\source\repos\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
-c:\users\masa\source\repos\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
-c:\users\masa\source\repos\OOP\OOP\obj\Debug\OOP.exe
-c:\users\masa\source\repos\OOP\OOP\obj\Debug\OOP.pdb
